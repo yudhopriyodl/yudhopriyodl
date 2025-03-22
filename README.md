@@ -2,7 +2,7 @@
 
 Hi, I am Yudho, an based in Surabaya, Indonesia. I have 2 years of experience as a Full Stack Web & Mobile Apps Developer, I am currently studying at Open University Surabaya since 2022. I enjoy creating innovative apps and improving user experiences.  
 
-![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white") 
+<a href="https://yudhopriyodl.github.io/" taget="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio"></a>
 ![](https://komarev.com/ghpvc/?username=yudhopriyodl&style=flat-square) 
 <a href="https://www.buymeacoffee.com/yudhopriyodl" target="_blank">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
@@ -58,6 +58,15 @@ Hi, I am Yudho, an based in Surabaya, Indonesia. I have 2 years of experience as
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)
+
+#### Content Management System
+
+![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
+![Elementor Badge](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=fff&style=for-the-badge)
+![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=for-the-badge)
+![Joomla Badge](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=for-the-badge)
+![Shopify Badge](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge)
 
 #### IDEA
 

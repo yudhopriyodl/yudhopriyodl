@@ -55,8 +55,7 @@ Hi, I am Yudho, an based in Surabaya, Indonesia. I have 2 years of experience as
 
 #### Design & Visual Tools
 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
+![Affinity Badge](https://img.shields.io/badge/Affinity-222324?logo=affinity&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)
 

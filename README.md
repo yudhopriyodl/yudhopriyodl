@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Hello<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30">, I'm Yudho Priyo DL<img src="https://em-content.zobj.net/source/telegram/386/technologist_1f9d1-200d-1f4bb.webp" alt="" width="30" height="30"></h1>
 
-Hi, I am Yudho Priyo DL,based in Surabaya, Indonesia. I have 2 years of experience as a Full Stack Web & Mobile Apps Developer, I am currently studying at Open University Surabaya since 2022. I enjoy creating innovative apps and improving user experiences.  
+Hi, I am Yudho Priyo DL, based in Surabaya, Indonesia. I have 2 years of experience as a Full Stack Web & Mobile Apps Developer, I am currently studying at Open University Surabaya since 2022. I enjoy creating innovative apps and improving user experiences.  
 
 <a href="https://yudhopriyodl.github.io/" taget="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio"></a>
 ![](https://komarev.com/ghpvc/?username=yudhopriyodl&style=flat-square) 
